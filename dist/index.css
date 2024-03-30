@@ -1,0 +1,7 @@
+*{
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.background{
+    background: url(./img/bg-header-desktop.png) no-repeat ,  linear-gradient(rgba(255, 255, 255, 0) ,rgb(255, 255, 255)90%);
+}
